@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8LvXQmRfe1R4Iy9mhJ0jO07Gagab3Nkmp3jsgeTBI0A=",
+  "Hash": "v89Od+AB5BH/bTR5BMwAjYQd/+W47qaHGx+rr7s4zzg=",
   "Source": "EcommerceAPI",
   "BasePath": "_content/EcommerceAPI",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\elbri\\Desktop\\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\\Estudos_pessoais\\E-commerce\\EcommerceAPI\\wwwroot\\uploads\\airforce.jpg",
+      "SourceId": "EcommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elbri\\Desktop\\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\\Estudos_pessoais\\E-commerce\\EcommerceAPI\\wwwroot\\",
+      "BasePath": "_content/EcommerceAPI",
+      "RelativePath": "uploads/airforce.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\airforce.jpg"
+    },
     {
       "Identity": "C:\\Users\\elbri\\Desktop\\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\\Estudos_pessoais\\E-commerce\\EcommerceAPI\\wwwroot\\uploads\\cabelo.jpg",
       "SourceId": "EcommerceAPI",

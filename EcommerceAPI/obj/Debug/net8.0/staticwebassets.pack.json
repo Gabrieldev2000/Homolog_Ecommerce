@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\elbri\\Desktop\\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\\Estudos_pessoais\\E-commerce\\EcommerceAPI\\wwwroot\\uploads\\airforce.jpg",
+      "PackagePath": "staticwebassets\\uploads\\airforce.jpg"
+    },
+    {
       "Id": "C:\\Users\\elbri\\Desktop\\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\\Estudos_pessoais\\E-commerce\\EcommerceAPI\\wwwroot\\uploads\\cabelo.jpg",
       "PackagePath": "staticwebassets\\uploads\\cabelo.jpg"
     },
