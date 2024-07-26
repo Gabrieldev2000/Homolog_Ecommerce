@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elbri\\Desktop\\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\\Estudos_pessoais\\E-commerce\\EcommerceAPI\\wwwroot\\uploads\\cabelo.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cabelo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcommerceAPI.props",
+      "PackagePath": "build\\EcommerceAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceAPI.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcommerceAPI.props",
+      "PackagePath": "buildTransitive\\EcommerceAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

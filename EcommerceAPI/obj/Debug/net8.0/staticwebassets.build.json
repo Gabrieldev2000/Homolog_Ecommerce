@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "szuPsaAC2k8BHowgPLs3grZEPbvob2J09vfVdGkcJDM=",
+  "Hash": "8LvXQmRfe1R4Iy9mhJ0jO07Gagab3Nkmp3jsgeTBI0A=",
   "Source": "EcommerceAPI",
   "BasePath": "_content/EcommerceAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "EcommerceAPI\\wwwroot",
+      "Source": "EcommerceAPI",
+      "ContentRoot": "C:\\Users\\elbri\\Desktop\\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\\Estudos_pessoais\\E-commerce\\EcommerceAPI\\wwwroot\\",
+      "BasePath": "_content/EcommerceAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\elbri\\Desktop\\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\\Estudos_pessoais\\E-commerce\\EcommerceAPI\\wwwroot\\uploads\\cabelo.jpg",
+      "SourceId": "EcommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elbri\\Desktop\\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\\Estudos_pessoais\\E-commerce\\EcommerceAPI\\wwwroot\\",
+      "BasePath": "_content/EcommerceAPI",
+      "RelativePath": "uploads/cabelo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cabelo.jpg"
+    }
+  ]
 }

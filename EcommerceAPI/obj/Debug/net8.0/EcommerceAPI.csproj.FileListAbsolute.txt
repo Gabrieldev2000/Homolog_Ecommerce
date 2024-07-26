@@ -138,3 +138,4 @@ C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\Estudos_pessoais
 C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\Estudos_pessoais\E-commerce\EcommerceAPI\obj\Debug\net8.0\ref\EcommerceAPI.dll
 C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\Estudos_pessoais\E-commerce\EcommerceAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\Estudos_pessoais\E-commerce\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.sourcelink.json
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\Estudos_pessoais\E-commerce\EcommerceAPI\bin\Debug\net8.0\EcommerceAPI.staticwebassets.runtime.json

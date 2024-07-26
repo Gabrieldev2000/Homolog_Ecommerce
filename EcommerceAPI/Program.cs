@@ -79,6 +79,8 @@ if (app.Environment.IsDevelopment())
     });
 }
 
+app.UseStaticFiles();  // Adicione esta linha para servir arquivos estáticos
+
 app.UseCors("AllowAll");
 
 app.UseAuthentication();
